@@ -1,4 +1,6 @@
 "# csu1112-class" 
+### AI Tree
+* ![AI](https://github.com/jumbokh/csu1112-class/blob/main/AI-Tree.jpg)
 ### Machine Learning Roadmap
 * ![ml](https://github.com/jumbokh/csu1112-class/blob/main/ML-Roadmap.jpg)
 * ![ml-tree](https://github.com/jumbokh/csu1112-class/blob/main/ML-tree.jpg)
