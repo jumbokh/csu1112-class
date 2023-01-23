@@ -28,3 +28,5 @@
 * [UC Berkeley CS 285 Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 * [Intro to Deep Learning and Generative Models](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 * [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+### 參考網站
+* [full notes](https://www.techringe.com/category/free-programming-books/?fbclid=IwAR1q8pRm8PKBkD6OL6iDBdLfGUVkVSRqA4xUZBWCKug8b1AjCCLIlB9cHQw)
