@@ -5,6 +5,7 @@
 * ![ml](https://github.com/jumbokh/csu1112-class/blob/main/ML-Roadmap.jpg)
 * ![ml-tree](https://github.com/jumbokh/csu1112-class/blob/main/ML-tree.jpg)
 * ![ML Models](https://github.com/jumbokh/csu1112-class/blob/main/ML-Models.jpg)
+* ![Distribution  backpropagation](https://github.com/jumbokh/csu1112-class/blob/main/Dbackpro.jpg)
 ### Deep Learning Free Course
 * [Andrew Ng CS229 ML](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [MIT: Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
