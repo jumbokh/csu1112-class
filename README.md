@@ -37,3 +37,5 @@
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/?fbclid=IwAR2FJG4YjseT2e3UKlnk5n3a7teTuMcN1I9u4iA041dwfZoGmmABYVjc3MI)
 * [udlbook](https://github.com/udlbook/udlbook)
 * [An MIT Press book in preparation](https://www.deeplearningbook.org/lecture_slides.html)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Approaching almost any ML Problem](https://github.com/abhishekkrthakur/approachingalmost)
