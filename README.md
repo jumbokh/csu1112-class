@@ -34,3 +34,4 @@
 ### 參考網站
 * [full notes](https://www.techringe.com/category/free-programming-books/?fbclid=IwAR1q8pRm8PKBkD6OL6iDBdLfGUVkVSRqA4xUZBWCKug8b1AjCCLIlB9cHQw)
 * [Machine Learning Algorithms](https://mlu-explain.github.io/?fbclid=IwAR0MeYQJeRfOg1X0jjK96BaOvpStG_MmmRwyElwNypna6nZZBiP8ZhM5k0o)
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/?fbclid=IwAR2FJG4YjseT2e3UKlnk5n3a7teTuMcN1I9u4iA041dwfZoGmmABYVjc3MI)
