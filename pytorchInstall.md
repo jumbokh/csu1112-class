@@ -16,3 +16,4 @@ python -m ipykernel install --user --name pytorch --display-name "Python 3.9 (py
 by 蔡炎龍老師
 ```
 * [T81-558: Applications of Deep Neural Networks](https://github.com/jumbokh/csu1112-class/blob/main/notebooks/manual_setup.ipynb)
+* [Heaton](https://github.com/jeffheaton/t81_558_deep_learning/tree/master/install)
