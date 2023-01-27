@@ -1,4 +1,6 @@
 "# csu1112-class" 
+### 蔡炎龍老師 書本範例
+* [AI book github](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 ### AI Tree
 * ![AI](https://github.com/jumbokh/csu1112-class/blob/main/AI-Tree.jpg)
 ### Machine Learning Roadmap
