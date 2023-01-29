@@ -52,8 +52,8 @@ Two Minute Papers (Machine Learning and AI Research, Scientific Papers): https:/
 Machine Learnia (Machine Learning, Scikit Learn, Python): https://www.youtube.com/c/MachineLearnia
 Mark Saroufim (Machine Learning Engineering, Practical videos, Books review): https://www.youtube.com/user/marksaroufim
 sentdex (Python for AI and Finance): https://www.youtube.com/c/sentdex
-I found that curated list of YouTubers on this awesome repo: https://github.com/JoseDeFreitas/awesome-youtubers. That repo has similar lists for many other software skills, so make sure to check it out.
 ```
+### list of YouTubers on this awesome repo: https://github.com/JoseDeFreitas/awesome-youtubers. 
 ### 參考網站
 * [full notes](https://www.techringe.com/category/free-programming-books/?fbclid=IwAR1q8pRm8PKBkD6OL6iDBdLfGUVkVSRqA4xUZBWCKug8b1AjCCLIlB9cHQw)
 * [Machine Learning Algorithms](https://mlu-explain.github.io/?fbclid=IwAR0MeYQJeRfOg1X0jjK96BaOvpStG_MmmRwyElwNypna6nZZBiP8ZhM5k0o)
