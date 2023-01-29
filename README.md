@@ -35,6 +35,7 @@
 * [Intro to Deep Learning and Generative Models](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 * [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 * [Quantum Machine Learning (QML) course Github repo](https://github.com/theerfan/Q/tree/master/QML%20Course/qiskit_version?fbclid=IwAR2VmebOH3y_VxAKpOj6TUdVh5ryNpg1Ygf5kAjqNtOeBwzJsdvvzK3Orl0)
+* [台大資工陳縕儂老師的「深度學習之應用」課程影片](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)
 ### 參考網站
 * [full notes](https://www.techringe.com/category/free-programming-books/?fbclid=IwAR1q8pRm8PKBkD6OL6iDBdLfGUVkVSRqA4xUZBWCKug8b1AjCCLIlB9cHQw)
 * [Machine Learning Algorithms](https://mlu-explain.github.io/?fbclid=IwAR0MeYQJeRfOg1X0jjK96BaOvpStG_MmmRwyElwNypna6nZZBiP8ZhM5k0o)
