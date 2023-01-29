@@ -2,6 +2,7 @@
 ### 蔡炎龍老師 書本範例
 * [AI book github](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/FreeDataset.md)
+* [Deep-Learning-Basics](https://nbviewer.org/github/yenlung/Deep-Learning-Basics/tree/master/)
 ### AI Tree
 * ![AI](https://github.com/jumbokh/csu1112-class/blob/main/AI-Tree.jpg)
 ### Machine Learning Roadmap
