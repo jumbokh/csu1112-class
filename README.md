@@ -43,3 +43,4 @@
 * [An MIT Press book in preparation](https://www.deeplearningbook.org/lecture_slides.html)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Approaching almost any ML Problem](https://github.com/abhishekkrthakur/approachingalmost)
+* [陳昭明 github](https://github.com/mc6666/DL_Book)
