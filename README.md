@@ -55,7 +55,7 @@
 * sentdex (Python for AI and Finance): https://www.youtube.com/c/sentdex
 ##
 ### list of YouTubers on this awesome repo: https://github.com/JoseDeFreitas/awesome-youtubers. 
-### 參考網站
+### 參考
 * [full notes](https://www.techringe.com/category/free-programming-books/?fbclid=IwAR1q8pRm8PKBkD6OL6iDBdLfGUVkVSRqA4xUZBWCKug8b1AjCCLIlB9cHQw)
 * [Machine Learning Algorithms](https://mlu-explain.github.io/?fbclid=IwAR0MeYQJeRfOg1X0jjK96BaOvpStG_MmmRwyElwNypna6nZZBiP8ZhM5k0o)
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/?fbclid=IwAR2FJG4YjseT2e3UKlnk5n3a7teTuMcN1I9u4iA041dwfZoGmmABYVjc3MI)
@@ -64,3 +64,16 @@
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Approaching almost any ML Problem](https://github.com/abhishekkrthakur/approachingalmost)
 * [陳昭明 github](https://github.com/mc6666/DL_Book)
+* [2022最新版-李宏毅机器学习深度学习课程](https://www.bilibili.com/video/BV1m3411p7wD/)
+* [python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
+* [Machine Learning Notebooks](https://github.com/ageron/handson-ml2)
+* [Linear Regression on Boston Housing Dataset](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155)
+* [深度學習 -- 二元分類](https://zhuanlan.zhihu.com/p/62989429)
+* [可视化理解Binary Cross-Entropy](https://zhuanlan.zhihu.com/p/89391305)
+* [政大 蔡炎龍老師 program](https://github.com/jumbokh/Deep-Learning-Basics)
+* [classpy](https://github.com/cylcc06/classpy)
+* [ApacheCN 深度學習](https://www.ixyread.com/read/apachecn-dl-zh/SUMMARY.md)
+* [Github: handson-unsupervised-learning](https://github.com/aapatel09/handson-unsupervised-learning)
+* [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) 
+    * [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf) [[資料說明]]
