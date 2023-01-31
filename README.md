@@ -4,12 +4,12 @@
 * [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/FreeDataset.md)
 * [Deep-Learning-Basics](https://github.com/yenlung/Deep-Learning-Basics)
 ### AI Tree
-* ![AI](https://github.com/jumbokh/csu1112-class/blob/main/AI-Tree.jpg)
+* ![AI](https://github.com/jumbokh/csu1112-class/blob/main/images/AI-Tree.jpg)
 ### Machine Learning Roadmap
-* ![ml](https://github.com/jumbokh/csu1112-class/blob/main/ML-Roadmap.jpg)
-* ![ml-tree](https://github.com/jumbokh/csu1112-class/blob/main/ML-tree.jpg)
-* ![ML Models](https://github.com/jumbokh/csu1112-class/blob/main/ML-Models.jpg)
-* ![Distribution  backpropagation](https://github.com/jumbokh/csu1112-class/blob/main/Dbackpro.jpg)
+* ![ml](https://github.com/jumbokh/csu1112-class/blob/main/images/ML-Roadmap.jpg)
+* ![ml-tree](https://github.com/jumbokh/csu1112-class/blob/main/images/ML-tree.jpg)
+* ![ML Models](https://github.com/jumbokh/csu1112-class/blob/main/images/ML-Models.jpg)
+* ![Distribution  backpropagation](https://github.com/jumbokh/csu1112-class/blob/main/images/Dbackpro.jpg)
 ### Deep Learning Free Course
 * [Andrew Ng CS229 ML](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [MIT: Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
