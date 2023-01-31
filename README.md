@@ -36,23 +36,23 @@
 * [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 * [Quantum Machine Learning (QML) course Github repo](https://github.com/theerfan/Q/tree/master/QML%20Course/qiskit_version?fbclid=IwAR2VmebOH3y_VxAKpOj6TUdVh5ryNpg1Ygf5kAjqNtOeBwzJsdvvzK3Orl0)
 * [台大資工陳縕儂老師的「深度學習之應用」課程影片](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)
-```
-What's AI by Louis Bouchard: https://www.youtube.com/@WhatsAI
-Abhishek Thakur (Practical videos, Talks) : https://www.youtube.com/c/AbhishekThakurAbhi
-Ahlad Kumar (Deep learning, Theoretical): https://www.youtube.com/c/AhladKumar
-Aladdin Persson (PyTorch, TensorFlow): https://www.youtube.com/c/AladdinPersson
-Andreas Mueller: https://www.youtube.com/c/AndreasMueller
-Data School (Python, Machine learning, Theoretical): https://www.youtube.com/c/dataschool
-Connor Shorten (Theoretical): https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw
-Jeremy Howard (Deep learning, Theoretical): https://www.youtube.com/user/howardjeremyp
-Rasa (Rasa, AI, NLP): https://www.youtube.com/c/RasaHQ
-Yannic Kilcher (NLP, Machine learning, Deep learning, Theoretical): https://www.youtube.com/c/YannicKilcher
-OpenAI (NLP, Machine learning, AI): https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A
-Two Minute Papers (Machine Learning and AI Research, Scientific Papers): https://www.youtube.com/c/K%C3%A1rolyZsolnai
-Machine Learnia (Machine Learning, Scikit Learn, Python): https://www.youtube.com/c/MachineLearnia
-Mark Saroufim (Machine Learning Engineering, Practical videos, Books review): https://www.youtube.com/user/marksaroufim
-sentdex (Python for AI and Finance): https://www.youtube.com/c/sentdex
-```
+##
+* What's AI by Louis Bouchard: https://www.youtube.com/@WhatsAI
+* Abhishek Thakur (Practical videos, Talks) : https://www.youtube.com/c/AbhishekThakurAbhi
+* Ahlad Kumar (Deep learning, Theoretical): https://www.youtube.com/c/AhladKumar
+* Aladdin Persson (PyTorch, TensorFlow): https://www.youtube.com/c/AladdinPersson
+* Andreas Mueller: https://www.youtube.com/c/AndreasMueller
+* Data School (Python, Machine learning, Theoretical): https://www.youtube.com/c/dataschool
+* Connor Shorten (Theoretical): https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw
+* Jeremy Howard (Deep learning, Theoretical): https://www.youtube.com/user/howardjeremyp
+* Rasa (Rasa, AI, NLP): https://www.youtube.com/c/RasaHQ
+* Yannic Kilcher (NLP, Machine learning, Deep learning, Theoretical): https://www.youtube.com/c/YannicKilcher
+* OpenAI (NLP, Machine learning, AI): https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A
+* Two Minute Papers (Machine Learning and AI Research, Scientific Papers): https://www.youtube.com/c/K%C3%A1rolyZsolnai
+* Machine Learnia (Machine Learning, Scikit Learn, Python): https://www.youtube.com/c/MachineLearnia
+* Mark Saroufim (Machine Learning Engineering, Practical videos, Books review): https://www.youtube.com/user/marksaroufim
+* sentdex (Python for AI and Finance): https://www.youtube.com/c/sentdex
+##
 ### list of YouTubers on this awesome repo: https://github.com/JoseDeFreitas/awesome-youtubers. 
 ### 參考網站
 * [full notes](https://www.techringe.com/category/free-programming-books/?fbclid=IwAR1q8pRm8PKBkD6OL6iDBdLfGUVkVSRqA4xUZBWCKug8b1AjCCLIlB9cHQw)
