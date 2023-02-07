@@ -1,4 +1,23 @@
-"# csu1112-class" 
+### 課綱
+* w1. 課程介紹 人工智慧概論
+* w2. 環境安裝與介紹 常用工具介紹
+* w3. 機器學習 vs. 深度學習 (kaggle 介紹)
+* w4. 深度學習的三大天王: NN, CNN, RNN
+* w5. 線性回歸實作和機器學習理論
+* w6. 邏輯回歸和感知器實作
+* w7. 非監督式學習： KNN 最近鄰、PCA 降維、
+* w8. SVM、決策樹及隨機森林
+* w9. 期中考
+* w10. 卷積神經網路CNN
+* w11. 影像辨識理論和實作
+* w12. Functional API, 遷移式學習
+* w13. Teachable Machine, keras 與 opencv
+* w14. 神經網路三大天王之有記憶的 RNN
+* w15. IMDB 分析實作, Attention 和 transformer
+* w16. 用 DeepFace 來做人臉辨識
+* w17. 強化學習和 DQN
+* w18. 期末考
+##
 ### 蔡炎龍老師 書本範例
 * [AI book github](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/FreeDataset.md)
