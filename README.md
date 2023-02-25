@@ -1,11 +1,35 @@
-"# csu1112-class" 
+### 課綱
+* w1. 課程介紹 人工智慧概論
+* w2. 環境安裝與介紹 常用工具介紹
+* w3. 機器學習 vs. 深度學習 (kaggle 介紹)
+* w4. 深度學習的三大天王: NN, CNN, RNN
+* w5. 線性回歸實作和機器學習理論
+* w6. 邏輯回歸和感知器實作
+* w7. 非監督式學習： KNN 最近鄰、PCA 降維、
+* w8. SVM、決策樹及隨機森林
+* w9. 期中考
+* w10. 卷積神經網路CNN
+* w11. 影像辨識理論和實作
+* w12. Functional API, 遷移式學習
+* w13. Teachable Machine, keras 與 opencv
+* w14. 神經網路三大天王之有記憶的 RNN
+* w15. IMDB 分析實作, Attention 和 transformer
+* w16. 用 DeepFace 來做人臉辨識
+* w17. 強化學習和 DQN
+* w18. 期末考
+##
+### 蔡炎龍老師 書本範例
+* [AI book github](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
+* [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/FreeDataset.md)
+* [Deep-Learning-Basics](https://github.com/yenlung/Deep-Learning-Basics)
+* [ewant 課程](https://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=10&id=3636)
 ### AI Tree
-* ![AI](https://github.com/jumbokh/csu1112-class/blob/main/AI-Tree.jpg)
+* ![AI](https://github.com/jumbokh/csu1112-class/blob/main/images/AI-Tree.jpg)
 ### Machine Learning Roadmap
-* ![ml](https://github.com/jumbokh/csu1112-class/blob/main/ML-Roadmap.jpg)
-* ![ml-tree](https://github.com/jumbokh/csu1112-class/blob/main/ML-tree.jpg)
-* ![ML Models](https://github.com/jumbokh/csu1112-class/blob/main/ML-Models.jpg)
-* ![Distribution  backpropagation](https://github.com/jumbokh/csu1112-class/blob/main/Dbackpro.jpg)
+* ![ml](https://github.com/jumbokh/csu1112-class/blob/main/images/ML-Roadmap.jpg)
+* ![ml-tree](https://github.com/jumbokh/csu1112-class/blob/main/images/ML-tree.jpg)
+* ![ML Models](https://github.com/jumbokh/csu1112-class/blob/main/images/ML-Models.jpg)
+* ![Distribution  backpropagation](https://github.com/jumbokh/csu1112-class/blob/main/images/Dbackpro.jpg)
 ### Deep Learning Free Course
 * [Andrew Ng CS229 ML](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [MIT: Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
@@ -31,6 +55,44 @@
 * [Intro to Deep Learning and Generative Models](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 * [Stanford CS330: Deep Multi-Task and Meta Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 * [Quantum Machine Learning (QML) course Github repo](https://github.com/theerfan/Q/tree/master/QML%20Course/qiskit_version?fbclid=IwAR2VmebOH3y_VxAKpOj6TUdVh5ryNpg1Ygf5kAjqNtOeBwzJsdvvzK3Orl0)
-### 參考網站
+* [台大資工陳縕儂老師的「深度學習之應用」課程影片](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5yumEV1Wa4JvRiDluf83vn)
+##
+* What's AI by Louis Bouchard: https://www.youtube.com/@WhatsAI
+* Abhishek Thakur (Practical videos, Talks) : https://www.youtube.com/c/AbhishekThakurAbhi
+* Ahlad Kumar (Deep learning, Theoretical): https://www.youtube.com/c/AhladKumar
+* Aladdin Persson (PyTorch, TensorFlow): https://www.youtube.com/c/AladdinPersson
+* Andreas Mueller: https://www.youtube.com/c/AndreasMueller
+* Data School (Python, Machine learning, Theoretical): https://www.youtube.com/c/dataschool
+* Connor Shorten (Theoretical): https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw
+* Jeremy Howard (Deep learning, Theoretical): https://www.youtube.com/user/howardjeremyp
+* Rasa (Rasa, AI, NLP): https://www.youtube.com/c/RasaHQ
+* Yannic Kilcher (NLP, Machine learning, Deep learning, Theoretical): https://www.youtube.com/c/YannicKilcher
+* OpenAI (NLP, Machine learning, AI): https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A
+* Two Minute Papers (Machine Learning and AI Research, Scientific Papers): https://www.youtube.com/c/K%C3%A1rolyZsolnai
+* Machine Learnia (Machine Learning, Scikit Learn, Python): https://www.youtube.com/c/MachineLearnia
+* Mark Saroufim (Machine Learning Engineering, Practical videos, Books review): https://www.youtube.com/user/marksaroufim
+* sentdex (Python for AI and Finance): https://www.youtube.com/c/sentdex
+##
+### list of YouTubers on this awesome repo: https://github.com/JoseDeFreitas/awesome-youtubers. 
+### 參考
 * [full notes](https://www.techringe.com/category/free-programming-books/?fbclid=IwAR1q8pRm8PKBkD6OL6iDBdLfGUVkVSRqA4xUZBWCKug8b1AjCCLIlB9cHQw)
 * [Machine Learning Algorithms](https://mlu-explain.github.io/?fbclid=IwAR0MeYQJeRfOg1X0jjK96BaOvpStG_MmmRwyElwNypna6nZZBiP8ZhM5k0o)
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook/?fbclid=IwAR2FJG4YjseT2e3UKlnk5n3a7teTuMcN1I9u4iA041dwfZoGmmABYVjc3MI)
+* [udlbook](https://github.com/udlbook/udlbook)
+* [An MIT Press book in preparation](https://www.deeplearningbook.org/lecture_slides.html)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Approaching almost any ML Problem](https://github.com/abhishekkrthakur/approachingalmost)
+* [陳昭明 github](https://github.com/mc6666/DL_Book)
+* [2022最新版-李宏毅机器学习深度学习课程](https://www.bilibili.com/video/BV1m3411p7wD/)
+* [python data science handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Hands-on Unsupervised Learning Using Python](https://github.com/aapatel09/handson-unsupervised-learning)
+* [Machine Learning Notebooks](https://github.com/ageron/handson-ml2)
+* [Linear Regression on Boston Housing Dataset](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155)
+* [深度學習 -- 二元分類](https://zhuanlan.zhihu.com/p/62989429)
+* [可视化理解Binary Cross-Entropy](https://zhuanlan.zhihu.com/p/89391305)
+* [政大 蔡炎龍老師 program](https://github.com/jumbokh/Deep-Learning-Basics)
+* [classpy](https://github.com/cylcc06/classpy)
+* [ApacheCN 深度學習](https://www.ixyread.com/read/apachecn-dl-zh/SUMMARY.md)
+* [Github: handson-unsupervised-learning](https://github.com/aapatel09/handson-unsupervised-learning)
+* [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) 
+    * [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf) [[資料說明]]
