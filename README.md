@@ -75,6 +75,7 @@
 ##
 ### list of YouTubers on this awesome repo: https://github.com/JoseDeFreitas/awesome-youtubers. 
 ### 參考
+* [用 ChatGPT 和 Midjourney 來玩文字冒險遊戲](https://www.youtube.com/watch?v=A-6c584jxX8)
 * [想玩AI繪圖卻不會架?顯卡太爛跑不動怎麼辦?使用Colab運行Anything V3.0 AI繪圖](https://home.gamer.com.tw/artwork.php?sn=5607797)
 * [[AI繪圖] Stable Diffusion Webui Colab](https://home.gamer.com.tw/artwork.php?sn=5661358&fbclid=IwAR3PXoyeRK7NYtipGkcicGxPfrABEmCd1erYESVUmZceyTgBw1_KA50zwLE)
 * [full notes](https://www.techringe.com/category/free-programming-books/?fbclid=IwAR1q8pRm8PKBkD6OL6iDBdLfGUVkVSRqA4xUZBWCKug8b1AjCCLIlB9cHQw)
