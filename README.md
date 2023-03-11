@@ -23,6 +23,7 @@
 * [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/FreeDataset.md)
 * [Deep-Learning-Basics](https://github.com/yenlung/Deep-Learning-Basics)
 * [ewant 課程](https://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=10&id=3636)
+* [Deep-Learning-MOOC](https://github.com/yenlung/Deep-Learning-MOOC)
 ### AI Tree
 * ![AI](https://github.com/jumbokh/csu1112-class/blob/main/images/AI-Tree.jpg)
 ### Machine Learning Roadmap
