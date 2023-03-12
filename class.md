@@ -13,3 +13,4 @@ interact_manual(bmi_cal, h="請輸入你的身高(公分)",
 * [ML from Scratch with IRIS!!](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris/notebook)
 ## MNIST
 * [Deep Neural Network Keras way](https://www.kaggle.com/code/poonaml/deep-neural-network-keras-way)
+* [標準神經網路](https://github.com/jumbokh/csu1112-class/blob/main/notebooks/DeepLearning-Basic/01%20%E6%A8%99%E6%BA%96%E7%9A%84%20Fully%20Connected%20(Dense)%20NN.ipynb)
