@@ -20,7 +20,7 @@
 ##
 ### 蔡炎龍老師 書本範例
 * [AI book github](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
-* [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/FreeDataset.md)
+* [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/index/FreeDataset.md)
 * [Deep-Learning-Basics](https://github.com/yenlung/Deep-Learning-Basics)
 * [ewant 課程](https://www.ewant.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=10&id=3636)
 * [Deep-Learning-MOOC](https://github.com/yenlung/Deep-Learning-MOOC)
