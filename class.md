@@ -21,3 +21,5 @@ interact_manual(bmi_cal, h="請輸入你的身高(公分)",
 * [officeal site](https://plotly.com/python/getting-started/)
 * [dash install](https://dash.plotly.com/installation?_gl=1*6ugmh6*_ga*MTU5MjExMTY4Ny4xNjc5MTI1MDc0*_ga_6G7EE0JNSC*MTY3OTEyNTA3NC4xLjEuMTY3OTEyNjA3NC4wLjAuMA..)
 * [python: getting start](https://github.com/jumbokh/csu1112-class/blob/main/class/getting-started.py)
+## seaborn
+* [Python可视化24|seaborn绘制多变量分布图（jointplot|JointGrid）](https://zhuanlan.zhihu.com/p/191639730)
