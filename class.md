@@ -23,3 +23,4 @@ interact_manual(bmi_cal, h="請輸入你的身高(公分)",
 * [python: getting start](https://github.com/jumbokh/csu1112-class/blob/main/class/getting-started.py)
 ## seaborn
 * [Python可视化24|seaborn绘制多变量分布图（jointplot|JointGrid）](https://zhuanlan.zhihu.com/p/191639730)
+* [股票資料](https://github.com/jumbokh/csu1112-class/blob/main/class/06.Python%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E6%87%89%E7%94%A8-%E8%82%A1%E7%A5%A8%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80.ipynb)
