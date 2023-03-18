@@ -16,3 +16,4 @@ interact_manual(bmi_cal, h="請輸入你的身高(公分)",
 * [標準神經網路](https://github.com/jumbokh/csu1112-class/blob/main/notebooks/DeepLearning-Basic/01%20%E6%A8%99%E6%BA%96%E7%9A%84%20Fully%20Connected%20(Dense)%20NN.ipynb)
 ## [Python 學習筆記 : 用 mplfinance 套件繪製金融圖表 (一)](https://yhhuang1966.blogspot.com/2022/09/python-mplfinance.html)
 * [TSLA](https://github.com/jumbokh/csu1112-class/blob/main/class/TSLA_usStock.ipynb)
+* [Yahoo!股市--美股](https://tw.stock.yahoo.com/us-market?rr=16791168036170.9956383413913479)
