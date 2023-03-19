@@ -18,6 +18,7 @@
 * w17. 強化學習和 DQN
 * w18. 期末考
 ##
+### [Homework](https://github.com/jumbokh/csu1112-class/blob/main/Homework.md)
 ### 蔡炎龍老師 書本範例
 * [AI book github](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/index/FreeDataset.md)
