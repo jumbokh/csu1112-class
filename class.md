@@ -14,8 +14,9 @@ interact_manual(bmi_cal, h="請輸入你的身高(公分)",
 ## MNIST
 * [Deep Neural Network Keras way](https://www.kaggle.com/code/poonaml/deep-neural-network-keras-way)
 * [標準神經網路](https://github.com/jumbokh/csu1112-class/blob/main/notebooks/DeepLearning-Basic/01%20%E6%A8%99%E6%BA%96%E7%9A%84%20Fully%20Connected%20(Dense)%20NN.ipynb)
-* [handwriting_model_architecture.json](https://github.com/yenlung/Deep-Learning-MOOC/blob/master/handwriting_model_architecture.json)
-* [handwriting_model_weights.h5](https://github.com/yenlung/Deep-Learning-MOOC/blob/master/handwriting_model_weights.h5)
+* [取回訓練好的神經網路](https://github.com/jumbokh/csu1112-class/blob/main/class/01-2%20%E5%8F%96%E5%9B%9E%E4%BD%A0%E8%A8%93%E7%B7%B4%E5%A5%BD%E7%9A%84%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.ipynb)
+    * [handwriting_model_architecture.json](https://github.com/yenlung/Deep-Learning-MOOC/blob/master/handwriting_model_architecture.json)
+    * [handwriting_model_weights.h5](https://github.com/yenlung/Deep-Learning-MOOC/blob/master/handwriting_model_weights.h5)
 ## [Python 學習筆記 : 用 mplfinance 套件繪製金融圖表 (一)](https://yhhuang1966.blogspot.com/2022/09/python-mplfinance.html)
 * [TSLA](https://github.com/jumbokh/csu1112-class/blob/main/class/TSLA_usStock.ipynb)
 * [Yahoo!股市--美股](https://tw.stock.yahoo.com/us-market?rr=16791168036170.9956383413913479)
