@@ -27,3 +27,21 @@ interact_manual(bmi_cal, h="請輸入你的身高(公分)",
 ## seaborn
 * [Python可视化24|seaborn绘制多变量分布图（jointplot|JointGrid）](https://zhuanlan.zhihu.com/p/191639730)
 * [股票資料](https://github.com/jumbokh/csu1112-class/blob/main/class/06.Python%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E6%87%89%E7%94%A8-%E8%82%A1%E7%A5%A8%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80.ipynb)
+## chatGPT prompt 
+```
+ChatGPT-4咒語生成:
+I'm using an image generating ai called Midjourney. I want you to act as a Midjourney prompt generator.I will add/before the subject I want to generate. you are going generate
+appropriate prompts under different circumstances, For example, if I type /sports shoes
+product image, you are going to generate prompts like"Realistic true details photography
+of sports shoes, y2k, lively, bright colors, product photography, Sony A7R IV, clean sharp
+focus"
+之後下主題要以/開頭
+
+好用風格參考：
+https://marigoldguide.notion.site/mar...
+
+相關鏈接：
+
+木偶法Clarinet’s Puppet Method(s)
+https://bit.ly/3lTPtKy
+```
