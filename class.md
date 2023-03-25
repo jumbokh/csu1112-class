@@ -20,6 +20,7 @@ interact_manual(bmi_cal, h="請輸入你的身高(公分)",
 ## [Python 學習筆記 : 用 mplfinance 套件繪製金融圖表 (一)](https://yhhuang1966.blogspot.com/2022/09/python-mplfinance.html)
 * [TSLA](https://github.com/jumbokh/csu1112-class/blob/main/class/TSLA_usStock.ipynb)
 * [Yahoo!股市--美股](https://tw.stock.yahoo.com/us-market?rr=16791168036170.9956383413913479)
+* [美股list](https://cdn.hsbc.com.tw/content/dam/hsbc/tw/docs/investment/stock-etf-product-list-1009-us-stock.pdf)
 ## plotly
 * [officeal site](https://plotly.com/python/getting-started/)
 * [dash install](https://dash.plotly.com/installation?_gl=1*6ugmh6*_ga*MTU5MjExMTY4Ny4xNjc5MTI1MDc0*_ga_6G7EE0JNSC*MTY3OTEyNTA3NC4xLjEuMTY3OTEyNjA3NC4wLjAuMA..)
