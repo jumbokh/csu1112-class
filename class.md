@@ -49,3 +49,4 @@ https://marigoldguide.notion.site/mar...
 木偶法Clarinet’s Puppet Method(s)
 https://bit.ly/3lTPtKy
 ```
+## 量化投資入門 https://github.com/victorgau/khpy_quant_intro
