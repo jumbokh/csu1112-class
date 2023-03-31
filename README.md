@@ -5,6 +5,12 @@
 * w4. 深度學習的三大天王: NN, CNN, RNN
 * w5. 線性回歸實作和機器學習理論
 * w6. 邏輯回歸和感知器實作
+    * [皮馬印地安人糖尿病預測](https://github.com/jumbokh/csu1112-class/blob/main/class/pima-indians-diabetes-beginner.ipynb)
+        * [皮馬印地安人資料檔](https://github.com/jumbokh/csu1112-class/blob/main/class/diabetes.csv)
+    * [PIMA Indians Diabetes (Beginner)](https://www.kaggle.com/code/rishpande/pima-indians-diabetes-beginner)
+    * [Titanic:  Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+    * [Titanic: logistic regression with python](https://www.kaggle.com/code/mnassrib/titanic-logistic-regression-with-python)
+    * [Kaggle競賽-鐵達尼號生存預測](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC4-1%E8%AC%9B-kaggle%E7%AB%B6%E8%B3%BD-%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E7%94%9F%E5%AD%98%E9%A0%90%E6%B8%AC-%E5%89%8D16-%E6%8E%92%E5%90%8D-a8842fea7077)
 * w7. 非監督式學習： KNN 最近鄰、PCA 降維、
 * w8. SVM、決策樹及隨機森林
 * w9. 期中考
