@@ -3,6 +3,7 @@
 * w2. 環境安裝與介紹 常用工具介紹
 * w3. 機器學習 vs. 深度學習 (kaggle 介紹)
 * w4. 深度學習的三大天王: NN, CNN, RNN
+* [量化投資入門](https://github.com/jumbokh/khpy_quant_intro)
 * w5. 線性回歸實作和機器學習理論
     * [簡單線性回歸](https://github.com/jumbokh/csu1112-class/blob/main/class/03_3_%E7%B0%A1%E5%96%AE%E7%B7%9A%E6%80%A7%E8%BF%B4%E6%AD%B8.ipynb)
     * [各式回歸算法](https://github.com/jumbokh/csu1112-class/blob/main/class/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
