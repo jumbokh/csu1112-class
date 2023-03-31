@@ -4,6 +4,8 @@
 * w3. 機器學習 vs. 深度學習 (kaggle 介紹)
 * w4. 深度學習的三大天王: NN, CNN, RNN
 * w5. 線性回歸實作和機器學習理論
+    * [簡單線性回歸](https://github.com/jumbokh/csu1112-class/blob/main/class/03_3_%E7%B0%A1%E5%96%AE%E7%B7%9A%E6%80%A7%E8%BF%B4%E6%AD%B8.ipynb)
+    * [各式回歸算法](https://github.com/jumbokh/csu1112-class/blob/main/class/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
     * [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
     * [What impacts Boston Housing Prices](https://medium.com/li-ting-liao-tiffany/python-%E5%BF%AB%E9%80%9F%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-boston-housing%E6%B3%A2%E5%A3%AB%E9%A0%93%E6%88%BF%E5%83%B9-9c535fb7ceb7)
           * [Boston dataset](https://scikit-learn.org/1.0/modules/generated/sklearn.datasets.load_boston.html)
