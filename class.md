@@ -50,3 +50,4 @@ https://marigoldguide.notion.site/mar...
 https://bit.ly/3lTPtKy
 ```
 ## 量化投資入門 https://github.com/victorgau/khpy_quant_intro
+* http://jsjustweb.jihsun.com.tw/z/zc/zcp/zcpb/zcpb_2330.djhtm
