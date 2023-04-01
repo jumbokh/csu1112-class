@@ -1,0 +1,22 @@
+## DNN
+* [01 標準的 Fully Connected (Dense) NN](https://github.com/jumbokh/csu1112-class/blob/main/class/01%20%E6%A8%99%E6%BA%96%E7%9A%84%20Fully%20Connected%20(Dense)%20NN.ipynb)
+* [01-1.標準神經網路NN做手寫辨識（MNIST）](https://github.com/jumbokh/csu1112-class/blob/main/class/01-1.%E6%A8%99%E6%BA%96%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AFNN%E5%81%9A%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98%EF%BC%88MNIST%EF%BC%89.ipynb)
+* [01-2 取回你訓練好的神經網路](https://github.com/jumbokh/csu1112-class/blob/main/class/01-2%20%E5%8F%96%E5%9B%9E%E4%BD%A0%E8%A8%93%E7%B7%B4%E5%A5%BD%E7%9A%84%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.ipynb)
+* [01-3. 作業說明_改造你的神經網路](https://github.com/jumbokh/csu1112-class/blob/main/class/01-3.%20%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E_%E6%94%B9%E9%80%A0%E4%BD%A0%E7%9A%84%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.ipynb)
+* [03_3_簡單線性迴歸](https://github.com/jumbokh/csu1112-class/blob/main/class/03_3_%E7%B0%A1%E5%96%AE%E7%B7%9A%E6%80%A7%E8%BF%B4%E6%AD%B8.ipynb)
+* [06.Python資料分析應用-股票分析入門](https://github.com/jumbokh/csu1112-class/blob/main/class/06.Python%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E6%87%89%E7%94%A8-%E8%82%A1%E7%A5%A8%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80.ipynb) 
+## Basic yfinance module
+* [yfinance_test](https://github.com/jumbokh/csu1112-class/blob/main/class/yfinance_test.ipynb)
+* [TSLA_usStock](https://github.com/jumbokh/csu1112-class/blob/main/class/TSLA_usStock.ipynb)
+## FINTECH program
+* [1-2 讀取0050成分股](https://github.com/jumbokh/csu1112-class/blob/main/class/1-2%20%E8%AE%80%E5%8F%960050%E6%88%90%E5%88%86%E8%82%A1.ipynb)
+* [1-3 讀取S&P500公司列表](https://github.com/jumbokh/csu1112-class/blob/main/class/01-3.%20%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E_%E6%94%B9%E9%80%A0%E4%BD%A0%E7%9A%84%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.ipynb)
+* [5-1 資料序列化](https://github.com/jumbokh/csu1112-class/blob/main/class/5-1%20%E8%B3%87%E6%96%99%E5%BA%8F%E5%88%97%E5%8C%96.ipynb)
+* [5-2 抓台股股價資料然後存放到硬碟上](https://github.com/jumbokh/csu1112-class/blob/main/class/5-2%20%E6%8A%93%E5%8F%B0%E8%82%A1%E8%82%A1%E5%83%B9%E8%B3%87%E6%96%99%E7%84%B6%E5%BE%8C%E5%AD%98%E6%94%BE%E5%88%B0%E7%A1%AC%E7%A2%9F%E4%B8%8A.ipynb)
+* [5-3 抓美股股價資料然後存放到硬碟上](https://github.com/jumbokh/csu1112-class/blob/main/class/5-3%20%E6%8A%93%E7%BE%8E%E8%82%A1%E8%82%A1%E5%83%B9%E8%B3%87%E6%96%99%E7%84%B6%E5%BE%8C%E5%AD%98%E6%94%BE%E5%88%B0%E7%A1%AC%E7%A2%9F%E4%B8%8A.ipynb)
+* [5-4 將dataframe寫到sqlite資料庫中](https://github.com/jumbokh/csu1112-class/blob/main/class/5-4%20%E5%B0%87dataframe%E5%AF%AB%E5%88%B0sqlite%E8%B3%87%E6%96%99%E5%BA%AB%E4%B8%AD.ipynb)
+* [5_6專題_線性回歸](https://github.com/jumbokh/csu1112-class/blob/main/class/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
+* [6-1 計算個股投資報酬率](https://github.com/jumbokh/csu1112-class/blob/main/class/6-1%20%E8%A8%88%E7%AE%97%E5%80%8B%E8%82%A1%E6%8A%95%E8%B3%87%E5%A0%B1%E9%85%AC%E7%8E%87.ipynb)
+* [6-2 計算ETF報酬率](https://github.com/jumbokh/csu1112-class/blob/main/class/6-2%20%E8%A8%88%E7%AE%97ETF%E5%A0%B1%E9%85%AC%E7%8E%87.ipynb)
+* [6-3 計算投資組合報酬率](https://github.com/jumbokh/csu1112-class/blob/main/class/6-3%20%E8%A8%88%E7%AE%97%E6%8A%95%E8%B3%87%E7%B5%84%E5%90%88%E5%A0%B1%E9%85%AC%E7%8E%87.ipynb)
+* [6-4 計算過去N年的投資報酬率](https://github.com/jumbokh/csu1112-class/blob/main/class/6-4%20%E8%A8%88%E7%AE%97%E9%81%8E%E5%8E%BBN%E5%B9%B4%E7%9A%84%E6%8A%95%E8%B3%87%E5%A0%B1%E9%85%AC%E7%8E%87.ipynb)
