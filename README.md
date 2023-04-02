@@ -19,6 +19,7 @@
 * w6. 邏輯回歸和感知器實作
     * [皮馬印地安人糖尿病預測](https://github.com/jumbokh/csu1112-class/blob/main/class/pima-indians-diabetes-beginner.ipynb)
           * [皮馬印地安人資料檔](https://github.com/jumbokh/csu1112-class/blob/main/class/diabetes.csv)
+    * [PIMA kaggle](https://www.kaggle.com/code/pierpaolo28/pima-indians-diabetes-database)
     * [PIMA Indians Diabetes (Beginner)](https://www.kaggle.com/code/rishpande/pima-indians-diabetes-beginner)
     * [Titanic:  Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
     * [Titanic: logistic regression with python](https://www.kaggle.com/code/mnassrib/titanic-logistic-regression-with-python)
