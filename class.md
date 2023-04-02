@@ -51,3 +51,7 @@ https://bit.ly/3lTPtKy
 ```
 ## 量化投資入門 https://github.com/victorgau/khpy_quant_intro
 * http://jsjustweb.jihsun.com.tw/z/zc/zcp/zcpb/zcpb_2330.djhtm
+##
+* [openai python github](https://github.com/openai/openai-python)
+* [Fine-tuned-classification](https://github.com/jumbokh/csu1112-class/blob/main/class/openai/Fine-tuned_classification.ipynb)
+* [classification using embeddings](https://github.com/jumbokh/csu1112-class/blob/main/class/openai/Classification_using_embeddings.ipynb)
