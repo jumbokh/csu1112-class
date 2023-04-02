@@ -24,6 +24,7 @@
     * [Titanic:  Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
     * [Titanic: logistic regression with python](https://www.kaggle.com/code/mnassrib/titanic-logistic-regression-with-python)
     * [Kaggle競賽-鐵達尼號生存預測](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC4-1%E8%AC%9B-kaggle%E7%AB%B6%E8%B3%BD-%E9%90%B5%E9%81%94%E5%B0%BC%E8%99%9F%E7%94%9F%E5%AD%98%E9%A0%90%E6%B8%AC-%E5%89%8D16-%E6%8E%92%E5%90%8D-a8842fea7077)
+    * [Titanoc Kaggle code](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions)
 * w7. 非監督式學習： KNN 最近鄰、PCA 降維、
 * w8. SVM、決策樹及隨機森林
 * w9. 期中考
