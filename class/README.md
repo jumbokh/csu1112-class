@@ -11,6 +11,8 @@
 ## FINTECH program
 * [台積電(2330)資產負債表](http://jsjustweb.jihsun.com.tw/z/zc/zcp/zcpb/zcpb_2330.djhtm)
 * [1-2 讀取0050成分股](https://github.com/jumbokh/csu1112-class/blob/main/class/1-2%20%E8%AE%80%E5%8F%960050%E6%88%90%E5%88%86%E8%82%A1.ipynb)
+* [台灣50成分股](https://pchome.megatime.com.tw/group/mkt5/cidE002.html)
+* [S&P 500成份股列表](https://zh.wikipedia.org/wiki/S%26P_500%E6%88%90%E4%BB%BD%E8%82%A1%E5%88%97%E8%A1%A8)
 * [1-3 讀取S&P500公司列表](https://github.com/jumbokh/csu1112-class/blob/main/class/01-3.%20%E4%BD%9C%E6%A5%AD%E8%AA%AA%E6%98%8E_%E6%94%B9%E9%80%A0%E4%BD%A0%E7%9A%84%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.ipynb)
 * [5-1 資料序列化](https://github.com/jumbokh/csu1112-class/blob/main/class/5-1%20%E8%B3%87%E6%96%99%E5%BA%8F%E5%88%97%E5%8C%96.ipynb)
 * [5-2 抓台股股價資料然後存放到硬碟上](https://github.com/jumbokh/csu1112-class/blob/main/class/5-2%20%E6%8A%93%E5%8F%B0%E8%82%A1%E8%82%A1%E5%83%B9%E8%B3%87%E6%96%99%E7%84%B6%E5%BE%8C%E5%AD%98%E6%94%BE%E5%88%B0%E7%A1%AC%E7%A2%9F%E4%B8%8A.ipynb)
