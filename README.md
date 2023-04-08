@@ -13,6 +13,7 @@
     * [What impacts Boston Housing Prices](https://medium.com/li-ting-liao-tiffany/python-%E5%BF%AB%E9%80%9F%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-boston-housing%E6%B3%A2%E5%A3%AB%E9%A0%93%E6%88%BF%E5%83%B9-9c535fb7ceb7)
           * [Boston dataset](https://scikit-learn.org/1.0/modules/generated/sklearn.datasets.load_boston.html)
     * [Boston py](https://github.com/jumbokh/csu1112-class/blob/main/class/sklearn_boston.py)
+    * [Boston House](https://github.com/jumbokh/csu1112-class/blob/main/class/boston_house.ipynb)
     * [ML from Scratch with IRIS!!](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris)
     * [第2.1講： 如何獲取資料？ Sklearn內建資料集](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC2-1%E8%AC%9B-%E5%A6%82%E4%BD%95%E7%8D%B2%E5%8F%96%E8%B3%87%E6%96%99-sklearn%E5%85%A7%E5%BB%BA%E8%B3%87%E6%96%99%E9%9B%86-baa8f027ed7b)
           * [iris dataset](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris/input)
