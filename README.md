@@ -28,6 +28,7 @@
     * [Titanoc Kaggle code](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions)
 * w7. 非監督式學習： KNN 最近鄰、PCA 降維、
     * [神經網路的優化與調教](https://github.com/jumbokh/csu1112-class/blob/main/ppt/%E5%85%A8%E8%8F%AF06492/CH6.pptx)
+          * [split data](https://github.com/jumbokh/csu1112-class/blob/main/class/split82.ipynb)
     * [KNN, PCA](https://github.com/jumbokh/csu1112-class/blob/main/class/4_2_KNN%2C_PCA_and_SelectKBest.ipynb)
 * w8. SVM、決策樹及隨機森林
     * [SVM -- Titanic](https://github.com/jumbokh/csu1112-class/blob/main/class/4_3_SVM_titanic.ipynb)
