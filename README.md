@@ -17,6 +17,8 @@
     * [ML from Scratch with IRIS!!](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris)
     * [第2.1講： 如何獲取資料？ Sklearn內建資料集](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC2-1%E8%AC%9B-%E5%A6%82%E4%BD%95%E7%8D%B2%E5%8F%96%E8%B3%87%E6%96%99-sklearn%E5%85%A7%E5%BB%BA%E8%B3%87%E6%96%99%E9%9B%86-baa8f027ed7b)
           * [iris dataset](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris/input)
+          * [kaggle -- iris regression](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris)
+              * [notebook](https://github.com/jumbokh/csu1112-class/blob/main/class/ml-from-scratch-with-iris.ipynb)
 * w6. 邏輯回歸和感知器實作
     * [皮馬印地安人糖尿病預測](https://github.com/jumbokh/csu1112-class/blob/main/class/pima-indians-diabetes-beginner.ipynb)
           * [皮馬印地安人資料檔](https://github.com/jumbokh/csu1112-class/blob/main/class/diabetes.csv)
