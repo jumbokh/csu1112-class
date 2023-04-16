@@ -55,3 +55,6 @@ https://bit.ly/3lTPtKy
 * [openai python github](https://github.com/openai/openai-python)
 * [Fine-tuned-classification](https://github.com/jumbokh/csu1112-class/blob/main/class/openai/Fine-tuned_classification.ipynb)
 * [classification using embeddings](https://github.com/jumbokh/csu1112-class/blob/main/class/openai/Classification_using_embeddings.ipynb)
+##
+#### ML-class
+* [ML-Class](https://github.com/jumbokh/ML-Class)
