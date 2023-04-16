@@ -59,3 +59,4 @@ https://bit.ly/3lTPtKy
 #### ML-class
 * [ML-Class](https://github.com/jumbokh/ML-Class)
 * [iris -- KNN](https://github.com/jumbokh/ML-Class/blob/main/notebooks/simple-k-means-clustering-on-the-iris-dataset.ipynb)
+* [信用評估 -- 不平衡資料集](https://www.kaggle.com/code/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets/input)
