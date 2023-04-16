@@ -58,3 +58,4 @@ https://bit.ly/3lTPtKy
 ##
 #### ML-class
 * [ML-Class](https://github.com/jumbokh/ML-Class)
+* [iris -- KNN](https://github.com/jumbokh/ML-Class/blob/main/notebooks/simple-k-means-clustering-on-the-iris-dataset.ipynb)
