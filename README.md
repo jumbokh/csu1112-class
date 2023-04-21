@@ -2,7 +2,7 @@
 * w1. 課程介紹 人工智慧概論
 * w2. 環境安裝與介紹 常用工具介紹
 * w3. 機器學習 vs. 深度學習 (kaggle 介紹)
-* w4. 深度學習的三大天王: NN, CNN, RNN
+* w4. 深度學習的三大天王: NN, CNN, RNN [keras example](https://github.com/keras-team/keras)
 * [量化投資入門](https://github.com/jumbokh/khpy_quant_intro)
     * [yfinance 測試](https://github.com/jumbokh/csu1112-class/blob/main/class/yfinance_test.ipynb)
     * [FINTECH](https://github.com/jumbokh/csu1112-class/blob/main/class/README.md)
