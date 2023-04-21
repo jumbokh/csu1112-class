@@ -36,7 +36,7 @@
     * [SVM -- Titanic](https://github.com/jumbokh/csu1112-class/blob/main/class/4_3_SVM_titanic.ipynb)
     * [決策樹(Decision_Tree)以及隨機森林(Random_Forest)介紹](https://github.com/jumbokh/csu1112-class/blob/main/class/%5B%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%26%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%5D_%E7%AC%AC3_5%E8%AC%9B_%E6%B1%BA%E7%AD%96%E6%A8%B9(Decision_Tree)%E4%BB%A5%E5%8F%8A%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97(Random_Forest)%E4%BB%8B%E7%B4%B9.ipynb)
 * w9. 期中考
-* w10. 卷積神經網路CNN
+* w10. 卷積神經網路CNN [PPT](https://github.com/jumbokh/nknu-class/blob/main/docs/CH04_CNN.ppt)
     * [CNN](https://github.com/jumbokh/nknu-class/blob/main/CNN/README.md)
     * [CODE](https://github.com/jumbokh/csu1112-class/blob/main/class/deep_neural_network_keras_way.ipynb)
         * [Notebook](https://github.com/jumbokh/nknu-class/tree/main/notebook)
