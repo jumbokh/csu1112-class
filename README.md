@@ -40,10 +40,17 @@
     * [CNN](https://github.com/jumbokh/nknu-class/blob/main/CNN/README.md)
     * [CODE](https://github.com/jumbokh/csu1112-class/blob/main/class/deep_neural_network_keras_way.ipynb)
         * [Notebook](https://github.com/jumbokh/nknu-class/tree/main/notebook)
-* w11. 影像辨識理論和實作
+* w11. 影像辨識理論和實作 [DL_Book reference](https://github.com/mc6666/DL_Book/tree/main/src)
     * [opencv](https://github.com/jumbokh/nknu-class/blob/main/Opencv.md)
     * [cv_face](https://github.com/jumbokh/cv_face#readme)
-* w12. Functional API, 遷移式學習
+* w12. Functional API, 遷移式學習 [第2篇 冒險_冒險9-25](https://github.com/jumbokh/csu1112-class/tree/main/ppt/%E5%85%A8%E8%8F%AF06499/%E7%AC%AC2%E7%AF%87%20%E5%86%92%E9%9A%AA_%E5%86%92%E9%9A%AA9-25)
+    * [用_CNN_做圖形辨識](https://github.com/jumbokh/csu1112-class/blob/main/DL/code/%E5%86%92%E9%9A%AA15_16_%E7%94%A8_CNN_%E5%81%9A%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98.ipynb)
+    * [17_Cooper_真的是馬爾濟斯嗎？使用名門_CNN_幫助辨識！](https://github.com/jumbokh/csu1112-class/blob/main/DL/code/%E5%86%92%E9%9A%AA17_Cooper_%E7%9C%9F%E7%9A%84%E6%98%AF%E9%A6%AC%E7%88%BE%E6%BF%9F%E6%96%AF%E5%97%8E%EF%BC%9F%E4%BD%BF%E7%94%A8%E5%90%8D%E9%96%80_CNN_%E5%B9%AB%E5%8A%A9%E8%BE%A8%E8%AD%98%EF%BC%81.ipynb)
+    * [18_遷移式學習做八哥辨識](https://github.com/jumbokh/csu1112-class/blob/main/DL/code/%E5%86%92%E9%9A%AA18_%E9%81%B7%E7%A7%BB%E5%BC%8F%E5%AD%B8%E7%BF%92%E5%81%9A%E5%85%AB%E5%93%A5%E8%BE%A8%E8%AD%98.ipynb)    
+    * [Data_Augmentation_MNIST](https://github.com/jumbokh/csu1112-class/blob/main/class/CNN/06_05_Data_Augmentation_MNIST.ipynb)
+    * [Data_Augmentation_Pets](https://github.com/jumbokh/csu1112-class/blob/main/class/CNN/06_06_Data_Augmentation_Pets.ipynb)
+    * [CNN_Visualization](https://github.com/jumbokh/csu1112-class/blob/main/class/CNN/06_07_CNN_Visualization.ipynb)
+    * [使用Shap套件，觀察圖像那些位置對辨識最有幫助](https://github.com/jumbokh/csu1112-class/blob/main/class/CNN/06_08_Shap_MNIST.ipynb)
 * w13. Teachable Machine, keras 與 opencv
 * w14. 神經網路三大天王之有記憶的 RNN
 * w15. IMDB 分析實作, Attention 和 transformer
