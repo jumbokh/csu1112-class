@@ -11,7 +11,7 @@
     * [各式回歸算法](https://github.com/jumbokh/csu1112-class/blob/main/class/5_6%E5%B0%88%E9%A1%8C_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.ipynb)
     * [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
     * [What impacts Boston Housing Prices](https://medium.com/li-ting-liao-tiffany/python-%E5%BF%AB%E9%80%9F%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-boston-housing%E6%B3%A2%E5%A3%AB%E9%A0%93%E6%88%BF%E5%83%B9-9c535fb7ceb7)
-                * [Boston dataset](https://scikit-learn.org/1.0/modules/generated/sklearn.datasets.load_boston.html)
+      * [Boston dataset](https://scikit-learn.org/1.0/modules/generated/sklearn.datasets.load_boston.html)
     * [Boston py](https://github.com/jumbokh/csu1112-class/blob/main/class/sklearn_boston.py)
     * [Boston House](https://github.com/jumbokh/csu1112-class/blob/main/class/boston_house.ipynb)
     * [ML from Scratch with IRIS!!](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris)
