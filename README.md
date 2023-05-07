@@ -16,8 +16,8 @@
     * [Boston House](https://github.com/jumbokh/csu1112-class/blob/main/class/boston_house.ipynb)
     * [ML from Scratch with IRIS!!](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris)
     * [第2.1講： 如何獲取資料？ Sklearn內建資料集](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC2-1%E8%AC%9B-%E5%A6%82%E4%BD%95%E7%8D%B2%E5%8F%96%E8%B3%87%E6%96%99-sklearn%E5%85%A7%E5%BB%BA%E8%B3%87%E6%96%99%E9%9B%86-baa8f027ed7b)
-          * [iris dataset](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris/input)
-          * [kaggle -- iris regression](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris)
+            * [iris dataset](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris/input)
+            * [kaggle -- iris regression](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris)
               * [notebook](https://github.com/jumbokh/csu1112-class/blob/main/class/ml-from-scratch-with-iris.ipynb)
 * w6. 邏輯回歸和感知器實作
     * [皮馬印地安人糖尿病預測](https://github.com/jumbokh/csu1112-class/blob/main/class/pima-indians-diabetes-beginner.ipynb)
@@ -45,7 +45,7 @@
     * [cv_face](https://github.com/jumbokh/cv_face#readme)
 * w12. Functional API, 遷移式學習 
     * [第2篇 冒險_冒險9-25](https://github.com/jumbokh/csu1112-class/tree/main/ppt/%E5%85%A8%E8%8F%AF06499/%E7%AC%AC2%E7%AF%87%20%E5%86%92%E9%9A%AA_%E5%86%92%E9%9A%AA9-25) 
-    * [Lab4: cifar10](https://github.com/jumbokh/csu1112-class/blob/main/notebooks/MMSLAB-TF2-master/Lab4.ipynb) [ppt](https://github.com/jumbokh/csu1112-class/blob/main/ppt/MP22004_PPT/CH04.ppt)
+    * [Lab4: cifar10](https://github.com/jumbokh/csu1112-class/blob/main/notebooks/MMSLAB-TF2-master/Lab4.ipynb) {[ppt](https://github.com/jumbokh/csu1112-class/blob/main/ppt/MP22004_PPT/CH04.ppt)}
     * [15_16 用_CNN_做圖形辨識](https://github.com/jumbokh/csu1112-class/blob/main/DL/code/%E5%86%92%E9%9A%AA15_16_%E7%94%A8_CNN_%E5%81%9A%E5%9C%96%E5%BD%A2%E8%BE%A8%E8%AD%98.ipynb)
     * [17_Cooper_真的是馬爾濟斯嗎？使用名門_CNN_幫助辨識！](https://github.com/jumbokh/csu1112-class/blob/main/DL/code/%E5%86%92%E9%9A%AA17_Cooper_%E7%9C%9F%E7%9A%84%E6%98%AF%E9%A6%AC%E7%88%BE%E6%BF%9F%E6%96%AF%E5%97%8E%EF%BC%9F%E4%BD%BF%E7%94%A8%E5%90%8D%E9%96%80_CNN_%E5%B9%AB%E5%8A%A9%E8%BE%A8%E8%AD%98%EF%BC%81.ipynb)
     * [18_遷移式學習做八哥辨識](https://github.com/jumbokh/csu1112-class/blob/main/DL/code/%E5%86%92%E9%9A%AA18_%E9%81%B7%E7%A7%BB%E5%BC%8F%E5%AD%B8%E7%BF%92%E5%81%9A%E5%85%AB%E5%93%A5%E8%BE%A8%E8%AD%98.ipynb)    
