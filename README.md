@@ -62,6 +62,7 @@
 * w14. 神經網路三大天王之有記憶的 RNN
 * w15. IMDB 分析實作, Attention 和 transformer
 * w16. 用 DeepFace 來做人臉辨識
+    * [track face](https://github.com/ageitgey/face_recognition/blob/master/examples/ipynb_examples/track_faces_on_video_realtime.ipynb)
 * w17. 強化學習和 DQN
 * w18. 期末考
 ##
