@@ -54,6 +54,8 @@
     * [CNN_Visualization](https://github.com/jumbokh/csu1112-class/blob/main/class/CNN/06_07_CNN_Visualization.ipynb)
     * [使用Shap套件，觀察圖像那些位置對辨識最有幫助](https://github.com/jumbokh/csu1112-class/blob/main/class/CNN/06_08_Shap_MNIST.ipynb)
 * w13. Teachable Machine, keras 與 opencv
+    * [Teachable Machine official site](https://teachablemachine.withgoogle.com/)
+    * [Teachable Machine 教學](https://youyouyou.pixnet.net/blog/post/121047990-%E7%94%A8google-teachable-machine%E7%8E%A9%E7%8C%9C%E6%8B%B3%28%E4%B8%80%29)
 * w14. 神經網路三大天王之有記憶的 RNN
 * w15. IMDB 分析實作, Attention 和 transformer
 * w16. 用 DeepFace 來做人臉辨識
