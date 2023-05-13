@@ -64,6 +64,8 @@
 * w16. 用 DeepFace 來做人臉辨識
     * [track face](https://github.com/ageitgey/face_recognition/blob/master/examples/ipynb_examples/track_faces_on_video_realtime.ipynb)
 * w17. 強化學習和 DQN
+    * [在 PyTorch 中訓練 DCGAN](https://pyimagesearch.com/2021/10/25/training-a-dcgan-in-pytorch/)
+    * [GANs with Keras and TensorFlow](https://pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/)
 * w18. 期末考
 ##
 ### [Homework](https://github.com/jumbokh/csu1112-class/blob/main/Homework.md)
