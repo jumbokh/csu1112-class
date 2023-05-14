@@ -4,6 +4,6 @@
 ### [邊緣智慧案例實作](https://github.com/OmniXRI/NTUST_EdgeAI_2023)
 ### [computer vision](https://github.com/jumbokh/csu1111-class/tree/main/computerVision)
 ### [notebooks](https://github.com/jumbokh/csu1111-class/tree/main/computerVision/notebooks)
-#### [color ball]()
+#### [color ball](https://drive.google.com/file/d/1hwKQLXg4B6LE3IgWCUZMLVQQryqvWvZP/view?usp=share_link)
 * [getball](https://github.com/jumbokh/csu1111-class/blob/main/computerVision/notebooks/getBall.ipynb)
 * [teachable machine](https://drive.google.com/file/d/19iDoe_-X9BhRBNfzbFLYu3zXfITUTgZZ/view?usp=share_link)
