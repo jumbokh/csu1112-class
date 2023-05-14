@@ -7,3 +7,4 @@
 #### [color ball](https://drive.google.com/file/d/1hwKQLXg4B6LE3IgWCUZMLVQQryqvWvZP/view?usp=share_link)
 * [getball](https://github.com/jumbokh/csu1111-class/blob/main/computerVision/notebooks/getBall.ipynb)
 * [teachable machine](https://drive.google.com/file/d/19iDoe_-X9BhRBNfzbFLYu3zXfITUTgZZ/view?usp=share_link)
+#### [參考](https://t.dripemail2.com/c/eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkZXRvdXIiLCJpc3MiOiJtb25vbGl0aCIsInN1YiI6ImRldG91cl9saW5rIiwiaWF0IjoxNjgzOTA2Nzk4LCJuYmYiOjE2ODM5MDY3OTgsImFjY291bnRfaWQiOiI0NzY4NDI5IiwiZGVsaXZlcnlfaWQiOiJjM3ZidWVibWpvYWwzZ2ZtZWJ1ZyIsInVybCI6Imh0dHBzOi8vd3d3LnB5aW1hZ2VzZWFyY2guY29tL3B5aW1hZ2VzZWFyY2gtdW5pdmVyc2l0eS8_dXRtX3NvdXJjZT1EcmlwJnV0bV9tZWRpdW09RW1haWwmdXRtX2NhbXBhaWduPTRTZXAxMVNlcDIyU3BsaXRUZXN0UElTV2VsY29tZU9mZmVyRW1haWxTZXF1ZW5jZSZ1dG1fY29udGVudD1QYXRoQi1FbWFpbDFMaW5rMSZfX3M9amVjd3V1dHN6eXBmbWU4Ynoxa3MifQ.wKdJyiFr7A5imIW8Zk6VhB7I31Qrgx6MtHn4IcaWtvU)
