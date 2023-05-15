@@ -69,6 +69,7 @@
 * w18. 期末考
 ##
 ### [Homework](https://github.com/jumbokh/csu1112-class/blob/main/Homework.md)
+### [把Colab SD裝在google driver](https://ivonblog.com/posts/stable-diffusion-webui-manuals/installation/deploy-to-google-colab/?fbclid=IwAR2qxZ1_twop985cZqqURVVefbtlH2jr315_U4qFQc4VBf92Z80wRrXTfMY)
 ### 蔡炎龍老師 書本範例
 * [AI book github](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/index/FreeDataset.md)
