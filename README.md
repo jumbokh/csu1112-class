@@ -63,6 +63,7 @@
     * [RNN -- NKNU class](https://github.com/jumbokh/nknu-class/tree/main/NLP)
     * [Book src : RNN](https://github.com/mc6666/MyNeuralNetwork)
     * 冒險 19~25
+    * [蔡炎龍老師書本範例](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * w15. IMDB 分析實作, Attention 和 transformer
     * [Imdb : Kaggle](https://www.kaggle.com/code/derrelldsouza/imdb-sentiment-analysis-eda-ml-lstm-bert)
 * w16. 用 DeepFace 來做人臉辨識
