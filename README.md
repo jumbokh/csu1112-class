@@ -133,6 +133,7 @@
 ##
 ### list of YouTubers on this awesome repo: https://github.com/JoseDeFreitas/awesome-youtubers. 
 ### 參考
+* [神經網路與深度學習 (ppt & pdf)](https://nndl.github.io/?fbclid=IwAR18LC8Y0ZtvYeHVtz8hBneAbZ-NKQkXy6DJk5lmd2k6tdgInjNUA5Va8Hs)
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/?fbclid=IwAR29QnZX0E_b5j7_B_JV4EMmwMvmCucPQo1nllXyaT9ZAH2dOxIu8dGzDLo)
 * [用 ChatGPT 和 Midjourney 來玩文字冒險遊戲](https://www.youtube.com/watch?v=A-6c584jxX8)
 * [想玩AI繪圖卻不會架?顯卡太爛跑不動怎麼辦?使用Colab運行Anything V3.0 AI繪圖](https://home.gamer.com.tw/artwork.php?sn=5607797)
