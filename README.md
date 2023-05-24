@@ -160,5 +160,6 @@
 * [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) 
     * [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf) [[資料說明]]
 * [Machine Learning](https://github.com/Gautam-J/Machine-Learning)
+* [raspberry pi speach recognition](https://github.com/petewarden/spchcat)
 ## Docker
 * ![docker cmd](https://github.com/jumbokh/csu1112-class/blob/main/images/dockerCMD.jpg)
