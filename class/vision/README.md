@@ -1,3 +1,4 @@
+### [YOLO 基於深度學習的物件偵測](https://www.mropengate.com/2018/06/yolo-yolov3.html?m=1&fbclid=IwAR1y5ui7mK5dn9T9z8xrnvS_gJ5qbBkRpzDG4MU1C4_W3IuIXHhrpEVnKB0)
 ### [如何以Google Colab及Yolov4-tiny來訓練自定義資料集─以狗臉、貓臉、人臉偵測為例](https://omnixri.blogspot.com/2021/05/google-colabyolov4-tiny.html)
 ### [Yolo7](https://github.com/WongKinYiu/yolov7)
 ### [Yolo系列](https://medium.com/ching-i/search?q=yolo)
