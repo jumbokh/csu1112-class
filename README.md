@@ -65,6 +65,7 @@
     * 冒險 19~25
     * [蔡炎龍老師書本範例](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * w15. IMDB 分析實作, Attention 和 transformer
+    * [DL_Book data](https://drive.google.com/file/d/1ysZGVFZT2v21lazVo5exxs1aHG89LQRq/view?usp=sharing)
     * [Imdb : Kaggle](https://www.kaggle.com/code/derrelldsouza/imdb-sentiment-analysis-eda-ml-lstm-bert)
     * [Kaggle: Time serial data](https://www.kaggle.com/code/amirrezaeian/time-series-data-analysis-using-lstm-tutorial)
     * [Kaggle: us car data](https://www.kaggle.com/code/tanersekmen/us-car-data-analysis-eda-visualization)
