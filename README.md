@@ -66,6 +66,9 @@
     * [蔡炎龍老師書本範例](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * w15. IMDB 分析實作, Attention 和 transformer
     * [Imdb : Kaggle](https://www.kaggle.com/code/derrelldsouza/imdb-sentiment-analysis-eda-ml-lstm-bert)
+    * [Kaggle: Time serial data](https://www.kaggle.com/code/amirrezaeian/time-series-data-analysis-using-lstm-tutorial)
+    * [Kaggle: us car data](https://www.kaggle.com/code/tanersekmen/us-car-data-analysis-eda-visualization)
+    * [Kaggle: Time Series Analysis and forecasting using ARIMA](https://www.kaggle.com/code/hsankesara/time-series-analysis-and-forecasting-using-arima)
 * w16. 用 DeepFace 來做人臉辨識
     * [track face](https://github.com/ageitgey/face_recognition/blob/master/examples/ipynb_examples/track_faces_on_video_realtime.ipynb)
 * w17. 強化學習和 DQN
