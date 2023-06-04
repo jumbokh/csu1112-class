@@ -1,3 +1,4 @@
+* [Face recognition colab](https://github.com/jumbokh/cv_face/tree/master/opencv/day2)
 * [Google Image Search](https://www.google.com/imghp)
 * [Track Face](https://github.com/jumbokh/csu1112-class/blob/main/class/face/track_faces_on_video_realtime.ipynb)
     * [hamilton_clip](https://github.com/jumbokh/csu1112-class/blob/main/class/face/hamilton_clip.mp4)
