@@ -71,6 +71,7 @@
     * [Kaggle: us car data](https://www.kaggle.com/code/tanersekmen/us-car-data-analysis-eda-visualization)
     * [Kaggle: Time Series Analysis and forecasting using ARIMA](https://www.kaggle.com/code/hsankesara/time-series-analysis-and-forecasting-using-arima)
 * w16. 用 DeepFace 來做人臉辨識
+    * [face](https://github.com/jumbokh/csu1112-class/tree/main/class/face)
     * [track face](https://github.com/ageitgey/face_recognition/blob/master/examples/ipynb_examples/track_faces_on_video_realtime.ipynb)
 * w17. 強化學習和 DQN
     * [在 PyTorch 中訓練 DCGAN](https://pyimagesearch.com/2021/10/25/training-a-dcgan-in-pytorch/)
