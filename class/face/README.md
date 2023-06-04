@@ -1,7 +1,9 @@
-### [Google Image Search](https://www.google.com/imghp)
+* [Google Image Search](https://www.google.com/imghp)
 * [Track Face](https://github.com/jumbokh/csu1112-class/blob/main/class/face/track_faces_on_video_realtime.ipynb)
     * [hamilton_clip](https://github.com/jumbokh/csu1112-class/blob/main/class/face/hamilton_clip.mp4)
-### [Face Recognition](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
+* [Face Recognition](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
 * [examples](https://github.com/ageitgey/face_recognition/tree/master/examples)
-### [Face recognition paper](https://paperswithcode.com/task/face-recognition)
+* [Face recognition paper](https://paperswithcode.com/task/face-recognition)
+* [DeepFakes](https://github.com/iperov/DeepFaceLab)
+* [DeepFakes in 5 minutes](https://pub.towardsai.net/deepfakes-in-5-minutes-155c13d48fa3)
 
