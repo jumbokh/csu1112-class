@@ -8,4 +8,7 @@
 * [Face recognition paper](https://paperswithcode.com/task/face-recognition)
 * [DeepFakes](https://github.com/iperov/DeepFaceLab)
 * [DeepFakes in 5 minutes](https://pub.towardsai.net/deepfakes-in-5-minutes-155c13d48fa3)
+##
+* [face recognition LAB](https://realpython.com/face-recognition-with-python/#demo)
+* [dataset](https://www.kaggle.com/datasets/adg1822/7-celebrity-images?resource=download)
 
