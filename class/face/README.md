@@ -11,4 +11,5 @@
 ##
 * [face recognition LAB](https://realpython.com/face-recognition-with-python/#demo)
 * [dataset](https://www.kaggle.com/datasets/adg1822/7-celebrity-images?resource=download)
+* [demo](https://github.com/jumbokh/csu1112-class/blob/main/class/face/inclass.zip)
 
