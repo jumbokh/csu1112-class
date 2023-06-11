@@ -1,3 +1,5 @@
+### [ubuntu vm](https://www.osboxes.org/ubuntu/)
+
 ### 課綱
 * w1. 課程介紹 人工智慧概論
 * w2. 環境安裝與介紹 常用工具介紹
