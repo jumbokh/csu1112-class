@@ -82,6 +82,7 @@
 ##
 ### [Homework](https://github.com/jumbokh/csu1112-class/blob/main/Homework.md)
 ### [把Colab SD裝在google driver](https://ivonblog.com/posts/stable-diffusion-webui-manuals/installation/deploy-to-google-colab/?fbclid=IwAR2qxZ1_twop985cZqqURVVefbtlH2jr315_U4qFQc4VBf92Z80wRrXTfMY)
+### [mediapipe](https://developers.google.com/mediapipe/solutions/vision/object_detector/python?fbclid=IwAR3WdUZ6FnQsMQNZO92Z3UsTay23uVzIX-r15554cEMA2qIrnQXGuucItho)
 ### 蔡炎龍老師 書本範例
 * [AI book github](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
 * [Free Dataset](https://github.com/jumbokh/csu1112-class/blob/main/index/FreeDataset.md)
