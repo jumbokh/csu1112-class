@@ -30,6 +30,9 @@ source /usr/local/bin/virtualenvwrapper.sh
 ```
 * source ~/.bashrc
 * workon cv
+* pip install numpy
+* pip install scipy
+* pip install scikit-image
 ### reference
 * [opencv install](https://vegastack.com/tutorials/how-to-install-opencv-on-ubuntu-20-04/)
 * [virtualenv](https://medium.com/@scofield44165/ubuntu-20-04%E4%B8%AD%E5%AE%89%E8%A3%9D%E4%B8%A6%E4%BD%BF%E7%94%A8virtualenv%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83-install-and-use-virtualenv-in-ubuntu-20-04-7849091ea8e0)
