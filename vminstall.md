@@ -30,6 +30,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 ```
 * source ~/.bashrc
 * workon cv
+* pip install cmake
 * pip install numpy
 * pip install scipy
 * pip install scikit-image
