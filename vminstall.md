@@ -30,7 +30,15 @@ source /usr/local/bin/virtualenvwrapper.sh
 ```
 * source ~/.bashrc
 * workon cv
-* pip install cmake
+* sudo apt-get install build-essential python-dev
+* pip install cmake boost 
+```
+git clone https://github.com/Universe-ML21/script_install_dlib.git
+sudo chmod +x script_install_dlib/auto_dlib.sh
+bash script_install_dlib/auto_dlib.sh
+```
+* sudo apt-get install libgtk-3-dev
+* sudo apt-get install libboost-all-dev
 * pip install numpy
 * pip install scipy
 * pip install scikit-image
