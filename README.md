@@ -21,6 +21,7 @@
       * [iris dataset](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris/input)
       * [kaggle -- iris regression](https://www.kaggle.com/code/ash316/ml-from-scratch-with-iris)
       * [notebook](https://github.com/jumbokh/csu1112-class/blob/main/class/ml-from-scratch-with-iris.ipynb)
+      * [時間序列分析](https://allaboutdataanalysis.medium.com/20%E5%80%8B%E6%99%82%E9%96%93%E5%BA%8F%E5%88%97%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-%E5%AD%B8%E6%9C%83%E5%B9%AB%E4%BD%A0%E5%81%9A%E5%A5%BD%E9%A0%90%E6%B8%AC%E5%88%86%E6%9E%90-c297c631b374)
 * w6. 邏輯回歸和感知器實作
     * [皮馬印地安人糖尿病預測](https://github.com/jumbokh/csu1112-class/blob/main/class/pima-indians-diabetes-beginner.ipynb)
       * [皮馬印地安人資料檔](https://github.com/jumbokh/csu1112-class/blob/main/class/diabetes.csv)
