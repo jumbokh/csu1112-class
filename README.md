@@ -67,6 +67,7 @@
     * [Book src : RNN](https://github.com/mc6666/MyNeuralNetwork)
     * 冒險 19~25
     * [蔡炎龍老師書本範例](https://nbviewer.org/github/yenlung/Python-AI-Book/tree/main/)
+    * [中文斷詞神器 — CkipTagger：輕鬆處理繁體中文資料集斷詞工作的必備利器！](https://blog.infuseai.io/nlp-tool-ckiptagger-introduction-e34637184e67)
 * w15. IMDB 分析實作, Attention 和 transformer
     * [DL_Book data](https://drive.google.com/file/d/1ysZGVFZT2v21lazVo5exxs1aHG89LQRq/view?usp=sharing)
     * [Imdb : Kaggle](https://www.kaggle.com/code/derrelldsouza/imdb-sentiment-analysis-eda-ml-lstm-bert)
