@@ -171,5 +171,6 @@
     * [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf) [[資料說明]]
 * [Machine Learning](https://github.com/Gautam-J/Machine-Learning)
 * [raspberry pi speach recognition](https://github.com/petewarden/spchcat)
+* [SMOTE + ENN : 解決數據不平衡建模的採樣方法](https://medium.com/%E6%95%B8%E5%AD%B8-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E8%88%87%E8%9F%92%E8%9B%87/smote-enn-%E8%A7%A3%E6%B1%BA%E6%95%B8%E6%93%9A%E4%B8%8D%E5%B9%B3%E8%A1%A1%E5%BB%BA%E6%A8%A1%E7%9A%84%E6%8E%A1%E6%A8%A3%E6%96%B9%E6%B3%95-cdb6324b711e)
 ## Docker
 * ![docker cmd](https://github.com/jumbokh/csu1112-class/blob/main/images/dockerCMD.jpg)
